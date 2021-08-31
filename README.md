@@ -42,7 +42,7 @@
 <br />
 <br />
 
-<details>
+<!-- <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!-- START_SECTION:activity-->
@@ -53,7 +53,7 @@
 5. 🎉 Merged PR [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 <!--END_SECTION:activity -->
 
-</details>
+</details> -->
 
 <details>
   <summary>:zap: GitHub Stats</summary>
