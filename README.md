@@ -1,7 +1,8 @@
 ### Hi there, I'm Minasie - aka [Minas][website] 👋
 
 [![Website](https://img.shields.io/website?label=Minasie.herokuapp.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://minasie.herokuapp.com/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/MinasieAlemu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMinasieAlemu&screen_name=MinasieAlemu)
+[![Website](https://img.shields.io/website?label=Minase.herokuapp.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://minase.herokuapp.com/)
+
 
 ## I'm a Developer, and Student!!
 
@@ -62,6 +63,7 @@
 </details>
 
 [website]: https://minasie.herokuapp.com/
+[website1]: https://minase.herokuapp.com/
 [twitter]: https://twitter.com/MinasieAlemu
 [youtube]: https://youtube.com/ch-tech
 [instagram]: https://www.instagram.com/minasie_alemu/
